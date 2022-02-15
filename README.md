@@ -1,10 +1,10 @@
 # url-shortener
 
-This service can generate the shortened url for a supplied long url and can return long-url for the supplied shortened url.
+This service can generate the shortened url for a supplied long-url and can return long-url for the supplied shortened url.
 
 ## Tech Stack
 - This service utilizes an external service called [Bitly](https://bitly.com/)
-- Bitly is used to shorten an url or look up a short-url and fine the long-url.
+- Bitly is used to shorten an url or look up a short-url and find the long-url.
 - This API service is built using:
     - Python3
     - Flask
